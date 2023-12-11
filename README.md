@@ -20,7 +20,7 @@ This project aims to analyze the Steam gaming market, focusing on understanding 
 ### Jupyter Notebooks
 - [`analyze.ipynb`](https://github.com/Artysuk/Steam-Project/blob/main/file.ipynb): Jupyter Notebook containing code related to dataset analysis.
 - [`prediction.ipynb`](https://github.com/Artysuk/Steam-Project/blob/main/prediction.ipynb): Jupyter Notebook containing code related to prediction models.
-- [`steamproject.ipynb`](https://github.com/Artysuk/Steam-Project/blob/main/steamproject.ipynb): Jupyter Notebook containing code related to crawling information from SteamSpy and converting it into datasets.
+- [`crawl.ipynb`](https://github.com/Artysuk/Steam-Project/blob/main/steamproject.ipynb): Jupyter Notebook containing code related to crawling information from SteamSpy and converting it into datasets.
 
 ### CSV Files
 - [`details.csv`](https://github.com/Artysuk/Steam-Project/blob/main/details.csv): Dataset crawled from SteamSpy, containing various attributes (name, developer, publisher, positive, negative, min_owners, max_owners, average_forever, average_2weeks, median_forever, median_2weeks, ccu, price, initialprice, discount, genre, tags, languages).
