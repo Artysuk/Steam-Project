@@ -12,8 +12,8 @@ This project aims to analyze the Steam gaming market, focusing on understanding 
 ## Guide to the Repository
 
 ### PDF Files
-- [`G8_report.pdf`](https://github.com/Artysuk/Steam-Project/blob/main/G8_report.pdf): Poster representing the project shortly.
-
+- [`G8_report.pdf`](https://github.com/Artysuk/Steam-Project/blob/main/G8_report.pdf): Report representing more detalied 
+- [`G8 poster.pdf`](https://github.com/Artysuk/Steam-Project/blob/main/G8_poster.pdf): Poster representing the project shortly.
 ### Markdown Files
 - [`README.md`](https://github.com/Artysuk/Steam-Project/blob/main/README.md): Main file explaining the project and guiding other files.
 
